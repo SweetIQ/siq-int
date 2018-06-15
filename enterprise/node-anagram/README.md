@@ -1,5 +1,7 @@
 ### Node-Anagram Assignment
 
+Estimated effort: 3 to 6 hours
+
 #### Description
 
 The node-anagram API provides endpoints to work with Anagrams.
