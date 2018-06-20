@@ -35,6 +35,7 @@ Things to take into account while implementing your solution:
 #### Rules
 
 * **\* DO NOT PUBLISH YOUR CODE ON GITHUB OR FORK THIS PROJECT** ( or any other public platform )
+* Assignment should be handed over via a link to a cloud storage service  ( **Dropbox** / **Google Drive** / **WeTransfer** or something similar ).
 * The existing setup and endpoints should be used. Endpoints should respect existing naming and query param names.
 * The provided word-list (english dictionary) must be used for the english language and cannot be swapped for a different one.
 * When getting anagrams for a given word, the passed word should not be included as part of the result. Ie: for 'cat' it should return ['act'] and not ['cat', 'act'].
