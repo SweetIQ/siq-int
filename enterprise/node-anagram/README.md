@@ -29,7 +29,7 @@ Things to take into account while implementing your solution:
 
 * Functionality: endpoints have to work as expected.
 * Design & code style: code structure, solution design, extensibility, easy to read & maintain, error handling.
-* Performance: code must have good performance (O(n), memory usage, etc). Multiple simultaneous calls per second should be expected for the API.
+* Performance: code must have good performance (time and memory complexity). Multiple simultaneous calls per second should be expected for the API.
 * Test coverage: some level of unit testing is expected.
 
 #### Rules
